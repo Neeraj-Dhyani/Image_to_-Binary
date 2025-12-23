@@ -46,9 +46,8 @@ No dependencies or build process required!
 ```
 image-encoder/
 │
-├── index.html          # Main HTML file with UI elements
-├── style.css           # Styling for the application
-└── script.js           # Core encoding/decoding logic
+├── index1.html          # Main HTML file with UI elements
+└── index.js           # Core encoding/decoding logic
 ```
 
 ## 🔧 How It Works
